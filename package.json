@@ -1,0 +1,29 @@
+{
+  "name": "sgobors-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgobors/vb.git"
+  },
+  "license": "ISC", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"sgobors": "^1.0.0",
+  	"guzibiji": "^1.0.0",
+  	"gowinov": "^1.0.0",
+	"gowinov-one": "^1.0.0",
+  	"xjean884": "^1.0.0",
+	"xjean884-one": "^1.0.0",
+  	"hn208590": "^1.0.0",
+	"hn208590-one": "^1.0.0",
+  	"kjonni88": "^1.0.0",
+	"kjonni88-one": "^1.0.0",
+	"web3": "^4.5.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
